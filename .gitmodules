@@ -1,3 +1,4 @@
 [submodule "CTFd/themes/GoN_theme"]
 	path = CTFd/themes/GoN_theme
 	url = https://github.com/Powering111/GoN_theme.git
+	branch = main
